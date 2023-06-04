@@ -9,7 +9,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BreakMe.dll": "sha256-efmM+GH96aNNiKLeRQCm4soZr+\/N08LigsLCF9sw9bY=",
+      "BreakMe.dll": "sha256-BXojRH7kSqjHqiC\/oAEuVzoEF30F\/oX4iOPAbH\/IWB8=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-Poydbr+8ooNi1+yCHj6nK6oK\/\/Cwv2xmBpiEawJGeYY=",
       "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-DnPjI8rkG5xE68oHdK3gpyXFwrRT21pErq5BA2hmW6Y=",
       "Microsoft.AspNetCore.Components.dll": "sha256-IR1df5dfJjRK0ixbUAcKRn78UjdeZituqfFxrYQ04zk=",

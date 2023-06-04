@@ -1,4 +1,12 @@
 /* /Shared/MainLayout.razor.rz.scp.css */
+.home-btn[b-m94yxerkno] {
+    margin-right: auto;
+}
+
+.home-btn a[b-m94yxerkno] {
+    margin: 0 !important;
+}
+
 .page[b-m94yxerkno] {
     position: relative;
     display: flex;
