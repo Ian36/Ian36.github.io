@@ -267,6 +267,7 @@ const animationTimeline = () => {
 
   // tl.seek("currentStep");
   // tl.timeScale(2);
+  const getRandom = (min, max) => Math.floor(Math.random()*(max-min+1)+min);
 
   // Restart Animation on click
   const replyBtn = document.getElementById("replay");
