@@ -273,8 +273,8 @@ const animationTimeline = () => {
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("mouseover", () => {
     replyBtn.style.position= 'relative';
-    replyBtn.style.left= getRandom(0, 200)+'px';
-    replyBtn.style.top = getRandom(0, 500)+'px';
+    replyBtn.style.left= getRandom(-100, 100)+'px';
+    replyBtn.style.top = getRandom(-300, 300)+'px';
   });
 };
 
